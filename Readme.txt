@@ -6,5 +6,3 @@ It's my private website for my portfolio and I am learning to build it It's Soo 
 ##https://jeevanghimire.github.io/ProjectWebsite/
 
 
-
-//checking out
